@@ -18,31 +18,31 @@ Find Udacity's Robotics Software Engineering Nanodegree [here](https://www.udaci
 
 Find the following images showing the a few details of the project.
 
-![](https://i.imgur.com/JnuWSod.png)
+![](https://i.imgur.com/CpYV0yy.png)
 <p align = "center"><b>Fig.1 - Robot inside simplistic Gazebo simulation</b></p>
 <br />
 
-![](https://i.imgur.com/scu0mor.png)
+![](https://i.imgur.com/5Pu7QYv.png)
 <p align = "center"><b>Fig.2 - Robot inside Rviz along with generated map</b></p>
 <br />
 
-![](https://i.imgur.com/QSnFukt.png)
-<p align = "center"><b>Fig.3 - Robot inside Rviz with working laser scan</b></p>
+![](https://i.imgur.com/igIuBXr.png)
+<p align = "center"><b>Fig.3 - Working AMCL at initial spawn point</b></p>
 <br />
 
-![](https://i.imgur.com/wT1LHew.png)
-<p align = "center"><b>Fig.4 - Working AMCL at initial spawn point</b></p>
+![](https://i.imgur.com/aYChjOp.png)
+<p align = "center"><b>Fig.4 - Working AMCL at step 1</b></p>
 <br />
 
-![](https://i.imgur.com/Lh2HvMp.png)
-<p align = "center"><b>Fig.5 - Working AMCL at step 1</b></p>
+![](https://i.imgur.com/sZIe7ta.png)
+<p align = "center"><b>Fig.5 - Working AMCL at step 2</b></p>
 <br />
 
-![](https://i.imgur.com/h7F0FzW.png)
-<p align = "center"><b>Fig.6 - Working AMCL at step 2</b></p>
+![](https://i.imgur.com/wuAjyVa.png)
+<p align = "center"><b>Fig.6 - Working AMCL at step 3</b></p>
 <br />
 
-![](https://i.imgur.com/Tq4VO47.png)
+![](https://i.imgur.com/gIpV2DQ.png)
 <p align = "center"><b>Fig.7 - Working AMCL at final step</b></p>
 
 ## Credits
