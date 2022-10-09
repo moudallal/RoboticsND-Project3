@@ -12,7 +12,7 @@ Find Udacity's Robotics Software Engineering Nanodegree [here](https://www.udaci
 - Achieve relatively fast robot localization 
 - Control robot using `teleop`
 
-<!-- The requirements of this project were met as approved by Udacity's reviewers. -->
+The requirements of this project were met as approved by Udacity's reviewers.
 
 ## Screenshots
 
